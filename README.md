@@ -55,21 +55,20 @@ I'm [Jean-michel](https://www.linkedin.com/in/jean-michel-newberg-cissp-mscsia-9
 - LevelBlue USM Anywhere
 - Wazuh
 
-## SIEM:
+### SIEM:
 - Splunk
 - Microsoft Sentinel
 - LevelBlue USM Anywhere
 
-## Vulnerability Management:
+### Vulnerability Management:
 - Tenable Nessus
 - OpenVAS
 
-## GRC / Auditing / Management
+### GRC / Auditing / Management
 - DISA SCC
 - DISA STIG
 - Jira
 - eMASS
-
 
 ### Configuration:
 - Microsoft Intune
