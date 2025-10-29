@@ -30,7 +30,11 @@ I'm [Jean-michel](https://www.linkedin.com/in/jean-michel-newberg-cissp-mscsia-9
 - [Small Wars Journal](https://smallwarsjournal.com/author/jean-michel-newberg/)
 
 
-### Tool Stack:
+
+
+
+
+# Tool Stack:
 
 ### Cloud:
 - Microsoft Azure (Commercial and GCC-H)
