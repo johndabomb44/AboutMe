@@ -26,6 +26,11 @@ I'm [Jean-michel](https://www.linkedin.com/in/jean-michel-newberg-cissp-mscsia-9
 - CompTIA Data+ (exp September 2028)
 - Microsoft Certified: Azure Fundamentals
 
+### Frameworks:
+- CMMC (NIST 800-171)
+- RMF (NIST 800-37, 800-53)
+- Zero Trust (NIST 800-207)
+
 ### Research Publications:
 - [Small Wars Journal](https://smallwarsjournal.com/author/jean-michel-newberg/)
 
@@ -40,9 +45,36 @@ I'm [Jean-michel](https://www.linkedin.com/in/jean-michel-newberg-cissp-mscsia-9
 - Microsoft Azure (Commercial and GCC-H)
 - Amazon Web Services
 
-### Operating Systems:
+### Operating System:
 - Linux (RHEL, Alma Linux, Oracle Linux, Ubuntu, Kali Linux, Security Onion)
 - Windows (10, 11, Server)
+
+### EDR/XDR:
+- Microsoft Windows Defender for Cloud
+- SentinelOne
+- LevelBlue USM Anywhere
+- Wazuh
+
+## SIEM:
+- Splunk
+- Microsoft Sentinel
+- LevelBlue USM Anywhere
+
+## Vulnerability Management:
+- Tenable Nessus
+- OpenVAS
+
+## GRC / Auditing / Management
+- DISA SCC
+- DISA STIG
+- Jira
+- eMASS
+
+
+### Configuration:
+- Microsoft Intune
+- Microsoft Active Directory / Group Policy Management
+- Ansible
 
 ### Programming:
 - Bash
