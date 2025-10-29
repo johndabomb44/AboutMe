@@ -30,7 +30,7 @@ I'm [Jean-michel](https://www.linkedin.com/in/jean-michel-newberg-cissp-mscsia-9
 - [Small Wars Journal](https://smallwarsjournal.com/author/jean-michel-newberg/)
 
 
-
+<br><br><br>
 
 
 
